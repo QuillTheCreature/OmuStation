@@ -3892,3 +3892,23 @@ Entries:
       message: Removed one leftover unintended spawner for plague mice.
   id: 494
   time: '2026-05-09T23:00:23.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Tweak
+      message: >-
+        Medical's autoinjector cartridges now have more vibrant colours to
+        better tell them apart.
+    - type: Tweak
+      message: >-
+        poison autoinjector cartridges now contain 2u multiver, 8u dylovene to
+        aid in active field poisonings.
+    - type: Tweak
+      message: >-
+        radiation autoinjector cartridges now contain 5u arithrazine, 5u
+        hyronlin.
+    - type: Tweak
+      message: >-
+        autoinjector cartridges are now named so that they group together in the
+        medical techfabs list of items.
+  id: 495
+  time: '2026-05-09T23:59:18.0000000+00:00'
