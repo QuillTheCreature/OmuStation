@@ -4194,3 +4194,9 @@ Entries:
       message: Vaping doesnt require blocked ingestion to function
   id: 534
   time: '2026-05-23T22:09:28.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: Fixed the requirements on NCT.
+  id: 535
+  time: '2026-05-23T22:10:06.0000000+00:00'
