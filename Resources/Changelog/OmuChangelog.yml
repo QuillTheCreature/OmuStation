@@ -4264,3 +4264,9 @@ Entries:
       message: Ported Reptilian dragon antlers from GoobStation.
   id: 544
   time: '2026-05-29T11:47:45.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: Fixed bingles being unable to take ion damage.
+  id: 545
+  time: '2026-05-29T12:06:26.0000000+00:00'
