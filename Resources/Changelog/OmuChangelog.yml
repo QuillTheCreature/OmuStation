@@ -4388,3 +4388,11 @@ Entries:
       message: NTR report is now 1×1 and fits in the CC clipboard
   id: 562
   time: '2026-06-06T23:31:01.0000000+00:00'
+- author: S1nnam0n
+  changes:
+    - type: Add
+      message: >-
+        Added Sad Spongebob Face Moth getting screamed at by Lydia Schofield to
+        lobby art rotation
+  id: 563
+  time: '2026-06-06T23:33:54.0000000+00:00'
