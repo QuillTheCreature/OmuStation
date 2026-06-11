@@ -47,6 +47,8 @@ marking-HarpyWingTipsClassic = Classic Wings with Feather Tips
 marking-HarpyWingTipsClassic-harpy_wingtip_1 = Main
 marking-HarpyWingTipsClassic-harpy_wingtip_2 = Feathertips
 
+marking-HarpyWingTipsClassicWhitescale = Classic Wings with Feather Tips (Whitescale)
+
 marking-HarpyWingBat = Bat Wings (Whitescale)
 marking-HarpyWingBat-bat_wings_tone_1 = Limbs
 marking-HarpyWingBat-bat_wings_tone_2 = Membrane

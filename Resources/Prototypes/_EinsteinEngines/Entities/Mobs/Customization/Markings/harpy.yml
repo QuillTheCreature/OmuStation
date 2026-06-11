@@ -304,6 +304,17 @@
     - sprite: _EinsteinEngines/Mobs/Customization/Harpy/harpy_wings.rsi
       state: harpy_wingtip_2
 
+- type: marking # Omu - Whitescale version of classic wings
+  id: HarpyWingTipsClassicWhitescale
+  bodyPart: RArm
+  markingCategory: Wings # Goob - Wings category
+  speciesRestriction: [Harpy]
+  sprites:
+    - sprite: _Omu/Mobs/Customization/Harpy/harpy_wings.rsi
+      state: whitescale_harpy_wingtip_1
+    - sprite: _Omu/Mobs/Customization/Harpy/harpy_wings.rsi
+      state: whitescale_harpy_wingtip_2
+
 - type: marking
   id: HarpyWingBat
   bodyPart: RArm
