@@ -46,6 +46,7 @@ namespace Content.Shared.Humanoid
         Head,
         Snout,
         HeadSide, // side parts (i.e., frills)
+        HeadAccessories,  // Omu - head accessories (i.e., piercings, rings)
         HeadTop,  // top parts (i.e., ears)
         Eyes,
         RArm,

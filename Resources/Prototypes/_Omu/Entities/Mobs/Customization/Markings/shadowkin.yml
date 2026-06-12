@@ -1,0 +1,136 @@
+# Ears
+
+- type: marking
+  id: EarsShadowkinPiercingStandaloneAll
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: piercing_all
+
+- type: marking
+  id: EarsShadowkinPiercingStandaloneLeft
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: piercing_left
+
+- type: marking
+  id: EarsShadowkinPiercingStandaloneRight
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: piercing_right
+
+- type: marking
+  id: EarsShadowkinRingedStandaloneAll
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: ringed_all_secondary
+
+- type: marking
+  id: EarsShadowkinRingedStandaloneLeft
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: ringed_left_secondary
+
+- type: marking
+  id: EarsShadowkinRingedStandaloneRight
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: ringed_right_secondary
+
+- type: marking
+  id: EarsShadowkinFluffyRingedStandaloneAll
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: fluffy_ringed_all
+
+- type: marking
+  id: EarsShadowkinFluffyRingedStandaloneLeft
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: fluffy_ringed_left
+
+- type: marking
+  id: EarsShadowkinFluffyRingedStandaloneRight
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: fluffy_ringed_right
+
+- type: marking
+  id: EarsShadowkinShortRingedStandaloneAll
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: short_ringed_all
+
+- type: marking
+  id: EarsShadowkinShortRingedStandaloneLeft
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: short_ringed_left
+
+- type: marking
+  id: EarsShadowkinShortRingedStandaloneRight
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: short_ringed_right
+
+- type: marking
+  id: EarsShadowkinGauzedStandaloneAll
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: gauze_ear_all_default
+
+- type: marking
+  id: EarsShadowkinGauzedStandaloneLeft
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: gauze_ear_l_default
+
+- type: marking
+  id: EarsShadowkinGauzedStandaloneRight
+  bodyPart: HeadTop
+  markingCategory: HeadAccessories
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+      state: gauze_ear_r_default

@@ -25,6 +25,7 @@ namespace Content.Shared.Humanoid.Markings
         Hair,
         FacialHair,
         Head,
+        HeadAccessories, // Omu
         HeadTop,
         HeadSide,
         Face, // Plasmeme Port
@@ -62,6 +63,7 @@ namespace Content.Shared.Humanoid.Markings
                 HumanoidVisualLayers.Head => MarkingCategories.Head,
                 HumanoidVisualLayers.HeadTop => MarkingCategories.HeadTop,
                 HumanoidVisualLayers.HeadSide => MarkingCategories.HeadSide,
+                HumanoidVisualLayers.HeadAccessories => MarkingCategories.HeadAccessories, // Omu
                 HumanoidVisualLayers.Snout => MarkingCategories.Snout,
                 HumanoidVisualLayers.Undershirt => MarkingCategories.Undershirt,
                 HumanoidVisualLayers.Underwear => MarkingCategories.Underwear,
