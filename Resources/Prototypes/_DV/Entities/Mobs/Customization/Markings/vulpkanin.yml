@@ -593,14 +593,24 @@
 #       state: points_sharp
 
 # Leg Markings
+# Omu begin - Fix for points feet being on both feet
 - type: marking
-  id: VulpPointsFeet
+  id: VulpPointsRightFoot
   markingCategory: RightFoot
   bodyPart: RFoot
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
-      state: points_feet
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_foot_right
+- type: marking
+  id: VulpPointsLeftFoot
+  markingCategory: LeftFoot
+  bodyPart: LFoot
+  speciesRestriction: [Vulpkanin]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi
+    state: points_foot_left
+# Omu end
 
 - type: marking
   id: VulpPointsCrestLegs
@@ -630,14 +640,24 @@
       state: points_sharp-legs
 
 # Arm Markings
+# Omu begin - Fix for points hands being on both hands
 - type: marking
-  id: VulpPointsHands
+  id: VulpPointsRightHand
   markingCategory: RightHand
   bodyPart: RHand
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
-      state: points_hands
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_hand_right
+- type: marking
+  id: VulpPointsLeftHand
+  markingCategory: LeftHand
+  bodyPart: LHand
+  speciesRestriction: [Vulpkanin]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi
+    state: points_hand_left
+# Omu end
 
 - type: marking
   id: VulpPointsCrestArms

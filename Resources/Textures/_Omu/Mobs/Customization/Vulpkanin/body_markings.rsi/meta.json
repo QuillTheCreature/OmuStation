@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Edited by Quill, Original from _DV/Mobs/Customization/Vulpkanin/body_markings.rsi/",
+  "size": {"x": 32, "y": 32},
+  "states": [
+    {
+      "name": "points_hand_left",
+      "directions": 4
+    },
+    {
+      "name": "points_hand_right",
+      "directions": 4
+    },
+    {
+      "name": "points_foot_left",
+      "directions": 4
+    },
+    {
+      "name": "points_foot_right",
+      "directions": 4
+    }
+  ]
+}
