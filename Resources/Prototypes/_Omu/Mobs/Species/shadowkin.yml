@@ -201,3 +201,13 @@
     state: shadowkin_big_fluff
   - sprite: _Omu/Mobs/Customization/Shadowkin/shadowkin_tails_64x32.rsi
     state: shadowkin_big_fluff_striped
+
+
+- type: marking
+  id: BodyShadowkinFullBelly
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Shadowkin]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Shadowkin/shadowkin_overlay.rsi
+    state: body_fullbelly

@@ -68,3 +68,7 @@ marking-TailShadowkinBigFluffTwoColored-shadowkin_big_fluff_twocolored = Bottom
 marking-TailShadowkinBigFluffStriped = Shadowkin (Big and Fluffy), Striped
 marking-TailShadowkinBigFluffStriped-shadowkin_big_fluff = Tail
 marking-TailShadowkinBigFluffStriped-shadowkin_big_fluff_striped = Stripes
+
+
+marking-BodyShadowkinFullBelly = Full Chest Tattoo
+marking-BodyShadowkinFullBelly-body_fullbelly = Chest
