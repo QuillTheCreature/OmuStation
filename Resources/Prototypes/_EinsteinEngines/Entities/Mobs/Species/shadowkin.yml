@@ -196,7 +196,6 @@
       - map: ["enum.HumanoidVisualLayers.Hair"]
       - map: ["enum.HumanoidVisualLayers.HeadSide"]
       - map: ["enum.HumanoidVisualLayers.HeadTop"]
-      - map: ["enum.HumanoidVisualLayers.HeadAccessories"] # Omu
       - map: ["mask"]
       - map: ["head"]
       - map: ["pocket1"]
@@ -307,7 +306,6 @@
         - map: ["enum.HumanoidVisualLayers.Hair"]
         - map: ["enum.HumanoidVisualLayers.HeadSide"]
         - map: ["enum.HumanoidVisualLayers.HeadTop"]
-        - map: ["enum.HumanoidVisualLayers.HeadAccessories"] # Omu
         - map: ["mask"]
         - map: ["head"]
         - map: ["pocket1"]

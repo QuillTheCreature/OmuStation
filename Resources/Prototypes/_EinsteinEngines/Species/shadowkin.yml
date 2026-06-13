@@ -38,7 +38,6 @@
   sprites:
     Head: MobShadowkinHead
     Snout: MobShadowkinAnyMarkingFollowSkin
-    HeadAccessories: MobShadowkinAnyMarking # Omu
     HeadTop: MobShadowkinAnyMarking
     HeadSide: MobShadowkinAnyMarkingFollowSkin
     Tail: MobShadowkinAnyMarkingFollowSkin
@@ -69,9 +68,6 @@
       points: 1
       required: true
       defaultMarkings: [TailShadowkin]
-    HeadAccessories: # Omu
-      points: 6
-      required: false
     HeadTop:
       points: 6 # Omu - Like moff antennae, the wurblefucks too, must have more ears for customization fuckery
       required: true

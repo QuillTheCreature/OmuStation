@@ -3,7 +3,7 @@
 - type: marking
   id: EarsShadowkinPiercingStandaloneAll
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -12,7 +12,7 @@
 - type: marking
   id: EarsShadowkinPiercingStandaloneLeft
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -21,7 +21,7 @@
 - type: marking
   id: EarsShadowkinPiercingStandaloneRight
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -30,7 +30,7 @@
 - type: marking
   id: EarsShadowkinRingedStandaloneAll
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -39,7 +39,7 @@
 - type: marking
   id: EarsShadowkinRingedStandaloneLeft
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -48,7 +48,7 @@
 - type: marking
   id: EarsShadowkinRingedStandaloneRight
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -57,7 +57,7 @@
 - type: marking
   id: EarsShadowkinFluffyRingedStandaloneAll
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -66,7 +66,7 @@
 - type: marking
   id: EarsShadowkinFluffyRingedStandaloneLeft
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -75,7 +75,7 @@
 - type: marking
   id: EarsShadowkinFluffyRingedStandaloneRight
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -84,7 +84,7 @@
 - type: marking
   id: EarsShadowkinShortRingedStandaloneAll
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -93,7 +93,7 @@
 - type: marking
   id: EarsShadowkinShortRingedStandaloneLeft
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -102,7 +102,7 @@
 - type: marking
   id: EarsShadowkinShortRingedStandaloneRight
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -111,7 +111,7 @@
 - type: marking
   id: EarsShadowkinGauzedStandaloneAll
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -120,7 +120,7 @@
 - type: marking
   id: EarsShadowkinGauzedStandaloneLeft
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
@@ -129,7 +129,7 @@
 - type: marking
   id: EarsShadowkinGauzedStandaloneRight
   bodyPart: HeadTop
-  markingCategory: HeadAccessories
+  markingCategory: HeadSide
   speciesRestriction: [Shadowkin]
   sprites:
     - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
