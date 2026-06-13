@@ -4492,3 +4492,11 @@ Entries:
       message: Ports wizdens palette and colour picker buttons for spraypainters
   id: 575
   time: '2026-06-13T09:34:05.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: >-
+        BSO and NTR are no longer valid targets for Kill objectives (alongside
+        all other CC roles, and nukies).
+  id: 576
+  time: '2026-06-13T09:39:34.0000000+00:00'
