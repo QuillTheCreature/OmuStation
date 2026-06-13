@@ -39,6 +39,46 @@
 
 
 - type: marking
+  id: EarsShadowkinAllSaggyGauzedAll
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Shadowkin]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+    state: saggy_default
+  - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+    state: saggy_gauze_all
+  - sprite: _Omu/Mobs/Customization/Shadowkin/shadowkin_ears_32x32.rsi
+    state: saggy_gauze_lowerears_all
+
+- type: marking
+  id: EarsShadowkinAllSaggyGauzedLeft
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Shadowkin]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+    state: saggy_default
+  - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+    state: saggy_gauze_l
+  - sprite: _Omu/Mobs/Customization/Shadowkin/shadowkin_ears_32x32.rsi
+    state: saggy_gauze_lowerears_l
+
+- type: marking
+  id: EarsShadowkinAllSaggyGauzedRight
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Shadowkin]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+    state: saggy_default
+  - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_ears_32x32.rsi
+    state: saggy_gauze_r
+  - sprite: _Omu/Mobs/Customization/Shadowkin/shadowkin_ears_32x32.rsi
+    state: saggy_gauze_lowerears_r
+
+
+- type: marking
   id: TailShadowkinMediumFurry
   bodyPart: Tail
   markingCategory: Tail

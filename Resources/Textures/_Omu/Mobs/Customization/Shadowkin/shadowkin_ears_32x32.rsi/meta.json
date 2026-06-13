@@ -18,6 +18,18 @@
         {
             "name": "gauze_lowerears_all_default",
             "directions": 4
+        },
+        {
+            "name": "saggy_gauze_lowerears_l",
+            "directions": 4
+        },
+        {
+            "name": "saggy_gauze_lowerears_r",
+            "directions": 4
+        },
+        {
+            "name": "saggy_gauze_lowerears_all",
+            "directions": 4
         }
     ]
 }

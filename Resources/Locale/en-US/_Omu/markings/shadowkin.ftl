@@ -1,4 +1,4 @@
-marking-EarsShadowkinAllEarsGauzedAll = Gauzed Ears (All Ears)
+marking-EarsShadowkinAllEarsGauzedAll = Gauzed Ears (All Four Ears)
 marking-EarsShadowkinAllEarsGauzedAll-shadowkin = Ears
 marking-EarsShadowkinAllEarsGauzedAll-gauze_ear_all_default = Top Ears Gauze
 marking-EarsShadowkinAllEarsGauzedAll-gauze_lowerears_all_default = Lower Ears Gauze
@@ -12,6 +12,21 @@ marking-EarsShadowkinAllEarsGauzedRight = Gauzed Ears (Both Right Ears)
 marking-EarsShadowkinAllEarsGauzedRight-shadowkin = Ears
 marking-EarsShadowkinAllEarsGauzedRight-gauze_ear_r_default = Top Ear Gauze
 marking-EarsShadowkinAllEarsGauzedRight-gauze_lowerears_r_default = Lower Ear Gauze
+
+
+marking-EarsShadowkinAllSaggyGauzedAll = Drooping Ears (All Four Ears), Gauzed
+marking-EarsShadowkinAllSaggyGauzedAll-saggy_default = Ears
+marking-EarsShadowkinAllSaggyGauzedAll-saggy_gauze_all = Top Ears Gauze
+marking-EarsShadowkinAllSaggyGauzedAll-saggy_gauze_lowerears_all = Lower Ears Gauze
+marking-EarsShadowkinAllSaggyGauzedLeft = Drooping Ears (Both Left Ears), Gauzed
+marking-EarsShadowkinAllSaggyGauzedLeft-saggy_default = Ears
+marking-EarsShadowkinAllSaggyGauzedLeft-saggy_gauze_l = Top Ear Gauze
+marking-EarsShadowkinAllSaggyGauzedLeft-saggy_gauze_lowerears_l = Lower Ear Gauze
+marking-EarsShadowkinAllSaggyGauzedRight = Drooping Ears (Both Right Ears), Gauzed
+marking-EarsShadowkinAllSaggyGauzedRight-saggy_default = Ears
+marking-EarsShadowkinAllSaggyGauzedRight-saggy_gauze_r = Top Ear Gauze
+marking-EarsShadowkinAllSaggyGauzedRight-saggy_gauze_lowerears_r = Lower Ear Gauze
+
 
 marking-TailShadekinMediumTwoColored-shadekin_medium = Top
 marking-TailShadekinMediumTwoColored-medium_twocolored = Bottom
