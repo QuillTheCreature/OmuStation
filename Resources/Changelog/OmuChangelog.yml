@@ -4506,3 +4506,11 @@ Entries:
       message: Cyborg's can now choose a hat in their loadout.
   id: 577
   time: '2026-06-13T10:16:22.0000000+00:00'
+- author: RadsammyT
+  changes:
+    - type: Fix
+      message: >-
+        The state of IPC body parts will now show up properly when examining an
+        IPCs health.
+  id: 578
+  time: '2026-06-13T10:57:51.0000000+00:00'
