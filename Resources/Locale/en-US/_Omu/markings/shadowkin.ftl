@@ -1,3 +1,10 @@
+marking-EyesShadowkinGlowingRight = Full Glowing Eye Right
+marking-EyesShadowkinGlowingLeft = Full Glowing Eye Left
+
+marking-EyesShadowkinNormalRight = Full Eye Right
+marking-EyesShadowkinNormalLeft = Full Eye Left
+
+
 marking-EarsShadowkinAllEarsGauzedAll = Gauzed Ears (All Four Ears)
 marking-EarsShadowkinAllEarsGauzedAll-shadowkin = Ears
 marking-EarsShadowkinAllEarsGauzedAll-gauze_ear_all_default = Top Ears Gauze

@@ -1,4 +1,59 @@
 - type: marking
+  id: EyesShadowkinGlowingRight
+  bodyPart: Eyes
+  markingCategory: Head
+  speciesRestriction: [Shadowkin]
+  coloring:
+    default:
+      type:
+        !type:EyeColoring
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Shadowkin/shadowkin_parts.rsi
+    state: eyes_right
+  shader: unshaded
+
+- type: marking
+  id: EyesShadowkinGlowingLeft
+  bodyPart: Eyes
+  markingCategory: Head
+  speciesRestriction: [Shadowkin]
+  coloring:
+    default:
+      type:
+        !type:EyeColoring
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Shadowkin/shadowkin_parts.rsi
+    state: eyes_left
+  shader: unshaded
+
+- type: marking
+  id: EyesShadowkinNormalRight
+  bodyPart: Eyes
+  markingCategory: Head
+  speciesRestriction: [Shadowkin]
+  coloring:
+    default:
+      type:
+        !type:EyeColoring
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Shadowkin/shadowkin_parts.rsi
+    state: eyes_right
+
+- type: marking
+  id: EyesShadowkinNormalLeft
+  bodyPart: Eyes
+  markingCategory: Head
+  speciesRestriction: [Shadowkin]
+  coloring:
+    default:
+      type:
+        !type:EyeColoring
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Shadowkin/shadowkin_parts.rsi
+    state: eyes_left
+
+
+- type: marking
   id: EarsShadowkinAllEarsGauzedAll
   bodyPart: HeadTop
   markingCategory: HeadTop
