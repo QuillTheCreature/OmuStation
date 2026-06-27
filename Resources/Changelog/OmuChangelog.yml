@@ -4700,3 +4700,9 @@ Entries:
         medical HUDs
   id: 605
   time: '2026-06-27T15:52:09.0000000+00:00'
+- author: GNUtopia
+  changes:
+    - type: Tweak
+      message: Eyeshadow markings now come in colours other than black
+  id: 606
+  time: '2026-06-27T18:09:52.0000000+00:00'
