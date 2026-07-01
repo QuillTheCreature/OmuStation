@@ -393,7 +393,16 @@ namespace Content.Client.RoundEnd
             };
             var StationReportLabel = new RichTextLabel();
             var StationReportmessage = new FormattedMessage();
-            StationReportmessage.AddMarkupOrThrow(stationReportText);
+            // Omu begin - NTR's shouldn't be able to crash the window by submitting a badly formatted report
+            try
+            {
+                StationReportmessage.AddMarkupPermissive(stationReportText);
+            }
+            catch (Exception)
+            {
+                StationReportmessage.AddText(stationReportText);
+            }
+            // Omu end
             StationReportLabel.SetMessage(StationReportmessage);
             StationReportContainer.AddChild(StationReportLabel);
 
