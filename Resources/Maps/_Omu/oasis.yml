@@ -139522,7 +139522,7 @@ entities:
     - type: Transform
       pos: 19.5,-29.5
       parent: 2
-- proto: LockerSalvageSpecialistFilled
+- proto: LockerSalvageSpecialistFilledHardsuit
   entities:
   - uid: 14051
     components:

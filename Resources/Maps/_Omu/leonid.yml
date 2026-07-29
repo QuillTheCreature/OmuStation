@@ -160356,7 +160356,7 @@ entities:
       angularDamping: 0
       linearDamping: 0
       bodyType: Static
-- proto: LockerSalvageSpecialistFilled
+- proto: LockerSalvageSpecialistFilledHardsuit
   entities:
   - uid: 24168
     components:

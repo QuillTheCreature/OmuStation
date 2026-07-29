@@ -144901,7 +144901,7 @@ entities:
         - 0
         - 0
         - 0
-- proto: LockerSalvageSpecialistFilled
+- proto: LockerSalvageSpecialistFilledHardsuit
   entities:
   - uid: 21626
     components:

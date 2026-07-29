@@ -129569,7 +129569,7 @@ entities:
     - type: Transform
       pos: 27.5,66.5
       parent: 2
-- proto: LockerSalvageSpecialistFilled
+- proto: LockerSalvageSpecialistFilledHardsuit
   entities:
   - uid: 9694
     components:

@@ -189740,7 +189740,7 @@ entities:
         - 0
         - 0
         - 0
-- proto: LockerSalvageSpecialistFilled
+- proto: LockerSalvageSpecialistFilledHardsuit
   entities:
   - uid: 556
     components:
@@ -189757,6 +189757,8 @@ entities:
     - type: Transform
       pos: 40.5,30.5
       parent: 2
+- proto: LockerSalvageSpecialistFilled
+  entities:
   - uid: 25117
     components:
     - type: Transform
