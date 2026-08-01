@@ -184,8 +184,8 @@ namespace Content.Client.RoundEnd
                 Orientation = LayoutOrientation.Vertical
             };
 
-            //Put observers at the bottom of the list. Put antags on top.
-            var sortedPlayersInfo = playersInfo.OrderBy(p => p.Observer).ThenBy(p => !p.Antag);
+            // Omu - Sort alphabetically by names
+            var sortedPlayersInfo = playersInfo.OrderBy(p => p.PlayerICName);
 
             //Create labels for each player info.
             foreach (var playerInfo in sortedPlayersInfo)
