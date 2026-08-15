@@ -17,7 +17,7 @@
   id: HarpyEarsDefault
   bodyPart: Head
   markingCategory: HeadTop
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type: !type:CategoryColoring
@@ -33,7 +33,7 @@
   id: HarpyTailPhoenix
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type: !type:CategoryColoring
@@ -49,7 +49,7 @@
   id: HarpyTailRooster
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type: !type:CategoryColoring
@@ -64,7 +64,7 @@
   id: HarpyTailFinch
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type: !type:CategoryColoring
@@ -79,7 +79,7 @@
   id: HarpyChestDefault
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type: !type:CategoryColoring
@@ -97,7 +97,7 @@
   id: HarpyLegsDefault
   bodyPart: LLeg
   markingCategory: Legs
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type: !type:CategoryColoring
@@ -113,7 +113,7 @@
   id: HarpyFeetDefault
   bodyPart: RFoot
   markingCategory: Legs
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       fallbackTypes:

@@ -9,7 +9,7 @@
   id: ChestChimeraFemaleMoth
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/chest.rsi
     state: chimeraf
@@ -18,7 +18,7 @@
   id: ChestChimeraMaleMoth
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/chest.rsi
     state: chimeram
@@ -27,7 +27,7 @@
   id: ChestTwistingLeftFemaleMoth
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/chest.rsi
     state: twistingleftf
@@ -36,7 +36,7 @@
   id: ChestTwistingLeftMaleMoth
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/chest.rsi
     state: twistingleftm
@@ -45,7 +45,7 @@
   id: ChestTwistingRightFemaleMoth
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/chest.rsi
     state: twistingrightf
@@ -54,7 +54,7 @@
   id: ChestTwistingRightMaleMoth
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/chest.rsi
     state: twistingrightm
@@ -63,7 +63,7 @@
   id: ChestStarMoth
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/chest.rsi
     state: star
@@ -72,7 +72,7 @@
   id: MothBodyClaw
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/chest.rsi
     state: claw
@@ -81,7 +81,7 @@
   id: MothChestGlow
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/chest.rsi
     state: glow
@@ -91,7 +91,7 @@
   id: TorsoIncisionMoth
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/chest.rsi
     state: incision
@@ -102,7 +102,7 @@
   id: BadmoltMoth
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: badmolt
@@ -111,7 +111,7 @@
   id: EyebagsMoth
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: eyebags
@@ -120,7 +120,7 @@
   id: HeadChimeraMoth
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: chimera
@@ -129,7 +129,7 @@
   id: HeadTwistingMoth
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: twisting
@@ -138,7 +138,7 @@
   id: MothBurnLeft
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: burnleft
@@ -147,7 +147,7 @@
   id: MothBurnRight
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: burnright
@@ -156,7 +156,7 @@
   id: MothFaceClaw
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: claw
@@ -165,7 +165,7 @@
   id: MothHeadGlow
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: glow
@@ -175,7 +175,7 @@
   id: MothSlashLeft
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: slashleft
@@ -184,7 +184,7 @@
   id: MothSlashRight
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/head.rsi
     state: slashright
@@ -195,7 +195,7 @@
   id: MouthpartsFulgoridae
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/snout.rsi
     state: fulgoridae
@@ -204,7 +204,7 @@
   id: MouthpartsFulgoridaeUpturned
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/snout.rsi
     state: fulgoridaeupturned
@@ -213,7 +213,7 @@
   id: MouthpartsHymenoptera
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/snout.rsi
     state: hymenoptera
@@ -222,7 +222,7 @@
   id: MouthpartsHymenopteraLarge
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/snout.rsi
     state: hymenopteralarge
@@ -231,7 +231,7 @@
   id: MouthpartsProboscisDownturned
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/snout.rsi
     state: proboscisdownturned
@@ -240,7 +240,7 @@
   id: MouthpartsProboscisUpturned
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/snout.rsi
     state: proboscisupturned
@@ -249,7 +249,7 @@
   id: MouthpartsSchistocerca
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/snout.rsi
     state: schistocerca
@@ -260,7 +260,7 @@
   id: HeterochromiaMoth
   bodyPart: Eyes
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/eyes.rsi
     state: heterochromia
@@ -269,7 +269,7 @@
   id: MothBiggerEyes
   bodyPart: Eyes
   markingCategory: Head
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/eyes.rsi
     state: bigger
@@ -280,7 +280,7 @@
   id: ProstheticArmRightMoth
   bodyPart: RArm
   markingCategory: RightArm
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/rarm.rsi
     state: prosthetic
@@ -289,7 +289,7 @@
   id: TwistingArmRightMoth
   bodyPart: RArm
   markingCategory: RightArm
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/rarm.rsi
     state: twisting
@@ -300,7 +300,7 @@
   id: ChimeraArmLeftMoth
   bodyPart: LArm
   markingCategory: LeftArm
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/larm.rsi
     state: chimera
@@ -309,7 +309,7 @@
   id: ProstheticArmLeftMoth
   bodyPart: LArm
   markingCategory: LeftArm
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/larm.rsi
     state: prosthetic
@@ -318,7 +318,7 @@
   id: TwistingArmLeftMoth
   bodyPart: LArm
   markingCategory: LeftArm
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/larm.rsi
     state: twisting
@@ -329,7 +329,7 @@
   id: LegProstheticRightMoth
   bodyPart: RLeg
   markingCategory: RightLeg
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/rleg.rsi
     state: prosthetic
@@ -338,7 +338,7 @@
   id: LegTwistingRightMoth
   bodyPart: RLeg
   markingCategory: RightLeg
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/rleg.rsi
     state: twisting
@@ -349,7 +349,7 @@
   id: LegChimeraLeftMoth
   bodyPart: LLeg
   markingCategory: LeftLeg
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/lleg.rsi
     state: chimera
@@ -358,7 +358,7 @@
   id: LegProstheticLeftMoth
   bodyPart: LLeg
   markingCategory: LeftLeg
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/lleg.rsi
     state: prosthetic
@@ -367,7 +367,7 @@
   id: LegTwistingLeftMoth
   bodyPart: Lleg
   markingCategory: LeftLeg
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/lleg.rsi
     state: twisting
@@ -378,7 +378,7 @@
   id: FootChimeraLeftMoth
   bodyPart: LFoot
   markingCategory: LeftFoot
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/lfoot.rsi
     state: chimera
@@ -387,7 +387,7 @@
   id: FootProstheticLeftMoth
   bodyPart: LFoot
   markingCategory: LeftFoot
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/lfoot.rsi
     state: prosthetic
@@ -398,7 +398,7 @@
   id: FootProstheticRightMoth
   bodyPart: RFoot
   markingCategory: RightFoot
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/rfoot.rsi
     state: prosthetic
@@ -409,7 +409,7 @@
   id: HandChimeraLeftMoth
   bodyPart: LHand
   markingCategory: LeftHand
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/lhand.rsi
     state: chimera
@@ -418,7 +418,7 @@
   id: HandProstheticLeftMoth
   bodyPart: LHand
   markingCategory: LeftHand
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/lhand.rsi
     state: prosthetic
@@ -427,7 +427,7 @@
   id: HandTwistingLeftMoth
   bodyPart: LHand
   markingCategory: LeftHand
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/lhand.rsi
     state: twisting
@@ -438,7 +438,7 @@
   id: HandProstheticRightMoth
   bodyPart: RHand
   markingCategory: RightHand
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/rhand.rsi
     state: prosthetic
@@ -447,7 +447,7 @@
   id: HandTwistingRightMoth
   bodyPart: RHand
   markingCategory: RightHand
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/rhand.rsi
     state: twisting
@@ -458,7 +458,7 @@
   id: PlateBlunt
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headside.rsi
     state: blunt
@@ -467,7 +467,7 @@
   id: PlateDaisy
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headside.rsi
     state: daisy
@@ -476,7 +476,7 @@
   id: PlateHeart
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headside.rsi
     state: heart
@@ -485,7 +485,7 @@
   id: PlateHorn
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headside.rsi
     state: horn
@@ -494,7 +494,7 @@
   id: PlateSmallSpike
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headside.rsi
     state: smallspike
@@ -505,7 +505,7 @@
   id: MothBeetleHorn1
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: beetlehorn1
@@ -514,7 +514,7 @@
   id: MothBeetleHorn2
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: beetlehorn2
@@ -523,7 +523,7 @@
   id: MothGlowAntenna
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: glowantenna
@@ -533,7 +533,7 @@
   id: AntennaCockroach
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: cockroach
@@ -542,7 +542,7 @@
   id: AntennaFly
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: fly
@@ -551,7 +551,7 @@
   id: AntennaHeart
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: heart1
@@ -562,7 +562,7 @@
   id: AntennaShort
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/headtop.rsi
     state: nub
@@ -573,7 +573,7 @@
   id: LunaWings
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: luna1
@@ -584,7 +584,7 @@
   id: MothBee
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: bee1
@@ -597,7 +597,7 @@
   id: MothBeetleTail
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: beetle1
@@ -610,7 +610,7 @@
   id: MothFirefly
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: firefly2
@@ -619,7 +619,7 @@
   id: MothFireflyOverlay
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Overlay
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: firefly1
@@ -629,7 +629,7 @@
   id: MothGlasswing
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: glasswing1
@@ -642,7 +642,7 @@
   id: MothRhinoBeetle
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: rhinobeetle1
@@ -655,7 +655,7 @@
   id: MothSnoth
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: snoth1
@@ -666,7 +666,7 @@
   id: MothTrueButterfly
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: truebutterfly1
@@ -679,7 +679,7 @@
   id: WingsBackstabbed
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: backstabbed
@@ -688,7 +688,7 @@
   id: WingsDragonfly
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: dragonfly1
@@ -701,7 +701,7 @@
   id: WingsFly
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: fly1
@@ -714,7 +714,7 @@
   id: WingsLanternfly
   bodyPart: Wings #Omu - Tail to Wings
   markingCategory: Wings #Omu - Tail to Wings
-  speciesRestriction: [ Moth ]
+  speciesRestriction: [Chimerafolk,  Moth ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Moth/tail.rsi
     state: lanternfly

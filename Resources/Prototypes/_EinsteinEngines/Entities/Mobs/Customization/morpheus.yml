@@ -10,7 +10,7 @@
   id: CyberLimbsMarkingMorpheusHead
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   coloring:
     default:
       type:
@@ -24,7 +24,7 @@
   id: CyberLimbsMarkingMorpheusHeadAlt
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   coloring:
     default:
       type:
@@ -38,7 +38,7 @@
   id: CyberLimbsMarkingMorpheusChest
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   coloring:
     default:
       type:
@@ -52,7 +52,7 @@
   id: CyberLimbsMarkingMorpheusLArm
   bodyPart: LArm
   markingCategory: LeftArm
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   coloring:
     default:
       type:
@@ -66,7 +66,7 @@
   id: CyberLimbsMarkingMorpheusLHand
   bodyPart: LHand
   markingCategory: LeftHand
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   coloring:
     default:
       type:
@@ -80,7 +80,7 @@
   id: CyberLimbsMarkingMorpheusLLeg
   bodyPart: LLeg
   markingCategory: LeftLeg
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   coloring:
     default:
       type:
@@ -95,7 +95,7 @@
   id: CyberLimbsMarkingMorpheusLFoot
   bodyPart: LFoot
   markingCategory: LeftFoot
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   coloring:
     default:
       type:
@@ -111,7 +111,7 @@
   id: CyberLimbsMarkingMorpheusRArm
   bodyPart: RArm
   markingCategory: RightArm
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   coloring:
     default:
       type:
@@ -126,7 +126,7 @@
   id: CyberLimbsMarkingMorpheusRHand
   bodyPart: RHand
   markingCategory: RightHand
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   coloring:
     default:
       type:
@@ -140,7 +140,7 @@
   id: CyberLimbsMarkingMorpheusRLeg
   bodyPart: RLeg
   markingCategory: RightLeg
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   coloring:
     default:
       type:
@@ -155,7 +155,7 @@
   id: CyberLimbsMarkingMorpheusRFoot
   bodyPart: RFoot
   markingCategory: RightFoot
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   coloring:
     default:
       type:

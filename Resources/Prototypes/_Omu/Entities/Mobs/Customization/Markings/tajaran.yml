@@ -4,7 +4,7 @@
   id: TajaranHeadTuxedo
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [Tajaran]
+  speciesRestriction: [Chimerafolk, Tajaran]
   sprites:
   - sprite: _Omu/Mobs/Customization/Tajaran/head.rsi
     state: tuxedocat_face
@@ -15,7 +15,7 @@
   id: TajaranTorsoTuxedo
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [Tajaran]
+  speciesRestriction: [Chimerafolk, Tajaran]
   sprites:
   - sprite: _Omu/Mobs/Customization/Tajaran/torso.rsi
     state: tuxedocat_back

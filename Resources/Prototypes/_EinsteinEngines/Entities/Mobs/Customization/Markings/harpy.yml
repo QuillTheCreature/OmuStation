@@ -15,7 +15,7 @@
   id: HarpyWingDefaultHuescale
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -32,7 +32,7 @@
   id: HarpyWingDefaultWhitescale
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Omu - Goat
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -49,7 +49,7 @@
   id: HarpyWingClassic
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -66,7 +66,7 @@
   id: HarpyWingFoldedHuescale
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -83,7 +83,7 @@
   id: HarpyWingFoldedWhitescale
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -100,7 +100,7 @@
   id: HarpyWingOwlHuescale
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -117,7 +117,7 @@
   id: HarpyWingOwlWhitescale
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -134,7 +134,7 @@
   id: HarpyEarsLarge
   bodyPart: Head
   markingCategory: HeadTop
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -151,7 +151,7 @@
   id: HarpyTailForkedWhitescale
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -167,7 +167,7 @@
   id: HarpyTailForkedHuescale
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -183,7 +183,7 @@
   id: HarpyTailPeacock
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -201,7 +201,7 @@
   id: HarpyTailHaven
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -219,7 +219,7 @@
   id: HarpyTailForkedLong
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -235,7 +235,7 @@
   id: HarpyTailSwallow
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   coloring:
     default:
       type:
@@ -251,7 +251,7 @@
   id: HarpyWing2ToneClassic
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   sprites:
     - sprite: _EinsteinEngines/Mobs/Customization/Harpy/harpy_wings.rsi
       state: harpy_2tone_1
@@ -262,7 +262,7 @@
   id: HarpyWing3ToneClassic
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   sprites:
     - sprite: _EinsteinEngines/Mobs/Customization/Harpy/harpy_wings.rsi
       state: harpy_3tone_1
@@ -275,7 +275,7 @@
   id: HarpyWingSpeckledClassic
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   sprites:
     - sprite: _EinsteinEngines/Mobs/Customization/Harpy/harpy_wings.rsi
       state: harpy_speckled_1
@@ -286,7 +286,7 @@
   id: HarpyWingUndertoneClassic
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   sprites:
     - sprite: _EinsteinEngines/Mobs/Customization/Harpy/harpy_wings.rsi
       state: harpy_undertone_1
@@ -297,7 +297,7 @@
   id: HarpyWingTipsClassic
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   sprites:
     - sprite: _EinsteinEngines/Mobs/Customization/Harpy/harpy_wings.rsi
       state: harpy_wingtip_1
@@ -308,7 +308,7 @@
   id: HarpyWingBat
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   sprites:
     - sprite: _EinsteinEngines/Mobs/Customization/Harpy/harpy_wings.rsi
       state: bat_wings_tone_1
@@ -319,7 +319,7 @@
   id: HarpyWingBionic
   bodyPart: Wings # Omu - Goat
   markingCategory: Wings # Goob - Wings category
-  speciesRestriction: [Harpy]
+  speciesRestriction: [Chimerafolk, Harpy]
   sprites:
     - sprite: _EinsteinEngines/Mobs/Customization/Harpy/harpy_wings.rsi
       state: bionic_wings_tone_1

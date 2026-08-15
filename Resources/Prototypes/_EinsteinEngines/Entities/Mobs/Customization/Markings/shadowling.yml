@@ -2,7 +2,7 @@
   id: LesserShadowlingEyes
   bodyPart: Eyes
   markingCategory: Head
-  speciesRestriction: [Shadow]
+  speciesRestriction: [Chimerafolk, Shadow]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/Shadow/lesser_eyes.rsi
     state: lesser_eyes
@@ -11,7 +11,7 @@
   id: AbominationHorns
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [Shadowling]
+  speciesRestriction: [Chimerafolk, Shadowling]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/Shadow/abomination_horns.rsi
     state: abomination_horns
@@ -20,7 +20,7 @@
   id: AbominationTorso
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [Shadowling]
+  speciesRestriction: [Chimerafolk, Shadowling]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/Shadow/abomination_torso.rsi
     state: abomination_torso

@@ -8,7 +8,7 @@
   id: ThavenHairChoices
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sprites:
   - sprite: _Gardenstation/Mobs/Customization/Thaven/hair.rsi
     state: choicesbangs
@@ -18,7 +18,7 @@
   id: ThavenChestPulse
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   coloring:
     default:
       type:
@@ -34,7 +34,7 @@
   id: ThavenRightArmPulse
   bodyPart: RArm
   markingCategory: RightArm
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   coloring:
     default:
       type:
@@ -49,7 +49,7 @@
   id: ThavenRightHandPulse
   bodyPart: RHand
   markingCategory: RightHand
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   coloring:
     default:
       type:
@@ -64,7 +64,7 @@
   id: ThavenRightLegPulse
   bodyPart: RLeg
   markingCategory: RightLeg
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   coloring:
     default:
       type:
@@ -79,7 +79,7 @@
   id: ThavenRightFootPulse
   bodyPart: RFoot
   markingCategory: RightFoot
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   coloring:
     default:
       type:
@@ -94,7 +94,7 @@
   id: ThavenLeftArmPulse
   bodyPart: LArm
   markingCategory: LeftArm
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   coloring:
     default:
       type:
@@ -110,7 +110,7 @@
   id: ThavenLeftHandPulse
   bodyPart: LHand
   markingCategory: LeftHand
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   coloring:
     default:
       type:
@@ -125,7 +125,7 @@
   id: ThavenLeftLegPulse
   bodyPart: LLeg
   markingCategory: LeftLeg
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   coloring:
     default:
       type:
@@ -140,7 +140,7 @@
   id: ThavenLeftFootPulse
   bodyPart: LFoot
   markingCategory: LeftFoot
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   coloring:
     default:
       type:

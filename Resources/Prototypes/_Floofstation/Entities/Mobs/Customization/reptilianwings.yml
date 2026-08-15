@@ -2,7 +2,7 @@
   id: WingsDragon
   bodyPart: Wings
   markingCategory: Wings
-  speciesRestriction: [Reptilian]
+  speciesRestriction: [Chimerafolk, Reptilian]
   sprites:
   - sprite: _SimpleStation/Mobs/Customization/wings64x34.rsi
     state: dragon
@@ -11,7 +11,7 @@
   id: WingsDragonTwotone
   bodyPart: Wings
   markingCategory: Wings
-  speciesRestriction: [Reptilian]
+  speciesRestriction: [Chimerafolk, Reptilian]
   sprites:
   - sprite: _SimpleStation/Mobs/Customization/wings64x34.rsi
     state: dragon

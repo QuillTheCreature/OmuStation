@@ -4,7 +4,7 @@
   id: ThavenSlimChest
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   forcedColoring: true
   followSkinColor: true
@@ -16,7 +16,7 @@
   id: GillsF
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/chest.rsi
@@ -26,7 +26,7 @@
   id: ThavenAbsF
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   followSkinColor: true
   sprites:
@@ -37,7 +37,7 @@
   id: ThavenBiteMarkF
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/chest.rsi
@@ -47,7 +47,7 @@
   id: ThavenBodyStripesF
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/chest.rsi
@@ -57,7 +57,7 @@
   id: ThavenChestScalesF
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/chest.rsi
@@ -67,7 +67,7 @@
   id: ThavenChestTattoo1F
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -80,7 +80,7 @@
   id: ThavenTattooWaveF
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/chest.rsi
@@ -90,7 +90,7 @@
   id: ThavenTattooVinesF
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/chest.rsi
@@ -100,7 +100,7 @@
   id: ThavenTigerF
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/chest.rsi
@@ -112,7 +112,7 @@
   id: ThavenHipScales
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/chest.rsi
     state: hipscales
@@ -129,7 +129,7 @@
 #  id: GradientRArmT
 #  bodyPart: RArm
 #  markingCategory: RightArm
-#  speciesRestriction: [ Thaven ]
+#  speciesRestriction: [Chimerafolk,  Thaven ]
 #  sprites:
 #  - sprite: Mobs/Customization/misc.rsi
 #    state: m_gradient_r_arm
@@ -140,7 +140,7 @@
 #  id: GradientRHandT
 #  bodyPart: RHand
 #  markingCategory: RightHand
-#  speciesRestriction: [ Thaven ]
+#  speciesRestriction: [Chimerafolk,  Thaven ]
 #  sprites:
 #  - sprite: Mobs/Customization/misc.rsi
 #    state: m_gradient_r_hand
@@ -151,7 +151,7 @@
 #  id: GradientLArmT
 #  bodyPart: LArm
 #  markingCategory: LeftArm
-#  speciesRestriction: [ Thaven ]
+#  speciesRestriction: [Chimerafolk,  Thaven ]
 #  sprites:
 #  - sprite: Mobs/Customization/misc.rsi
 #    state: m_gradient_l_arm
@@ -162,7 +162,7 @@
 #  id: GradientLHandT
 #  bodyPart: LHand
 #  markingCategory: LeftHand
-#  speciesRestriction: [ Thaven ]
+#  speciesRestriction: [Chimerafolk,  Thaven ]
 #  sprites:
 #  - sprite: Mobs/Customization/misc.rsi
 #    state: m_gradient_l_hand
@@ -173,7 +173,7 @@
 #  id: GradientRLegT
 #  bodyPart: RLeg
 #  markingCategory: RightLeg
-#  speciesRestriction: [ Thaven ]
+#  speciesRestriction: [Chimerafolk,  Thaven ]
 #  sprites:
 #  - sprite: Mobs/Customization/misc.rsi
 #    state: m_gradient_r_leg
@@ -184,7 +184,7 @@
 #  id: GradientRFootT
 #  bodyPart: RFoot
 #  markingCategory: RightFoot
-#  speciesRestriction: [ Thaven ]
+#  speciesRestriction: [Chimerafolk,  Thaven ]
 #  sprites:
 #  - sprite: Mobs/Customization/misc.rsi
 #    state: m_gradient_r_foot
@@ -195,7 +195,7 @@
 #  id: GradientLLegT
 #  bodyPart: LLeg
 #  markingCategory: LeftLeg
-#  speciesRestriction: [ Thaven ]
+#  speciesRestriction: [Chimerafolk,  Thaven ]
 #  sprites:
 #  - sprite: Mobs/Customization/misc.rsi
 #    state: m_gradient_l_leg
@@ -206,7 +206,7 @@
 #  id: GradientLFootT
 #  bodyPart: LFoot
 #  markingCategory: LeftFoot
-#  speciesRestriction: [ Thaven ]
+#  speciesRestriction: [Chimerafolk,  Thaven ]
 #  sprites:
 #  - sprite: Mobs/Customization/misc.rsi
 #   state: m_gradient_l_foot
@@ -217,7 +217,7 @@
   id: UnderwearBriefsTF
   bodyPart: Underwear
   markingCategory: Underwear
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -232,7 +232,7 @@
   id: UnderwearDefaultTF
   bodyPart: Underwear
   markingCategory: Underwear
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -247,7 +247,7 @@
   id: UnderwearLowridersTF
   bodyPart: Underwear
   markingCategory: Underwear
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -264,7 +264,7 @@
   id: UndergarmentTopBinderTF
   bodyPart: Undershirt
   markingCategory: Undershirt
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   coloring:
     default:
       type:
@@ -278,7 +278,7 @@
   id: UndergarmentTopTanktopTF
   bodyPart: Undershirt
   markingCategory: Undershirt
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -293,7 +293,7 @@
   id: UndershirtBraClassicTF
   bodyPart: Undershirt
   markingCategory: Undershirt
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -308,7 +308,7 @@
   id: UndershirtBraSportsTF
   bodyPart: Undershirt
   markingCategory: Undershirt
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -323,7 +323,7 @@
   id: UndershirtBraStraplessTF
   bodyPart: Undershirt
   markingCategory: Undershirt
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -338,7 +338,7 @@
   id: UndershirtDefaultTF
   bodyPart: Undershirt
   markingCategory: Undershirt
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -353,7 +353,7 @@
   id: UndershirtGrossSleevelessTF
   bodyPart: Undershirt
   markingCategory: Undershirt
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -368,7 +368,7 @@
   id: UndershirtNanotrasenTF
   bodyPart: Undershirt
   markingCategory: Undershirt
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -383,7 +383,7 @@
   id: UndershirtRolledTF
   bodyPart: Undershirt
   markingCategory: Undershirt
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   coloring:
     default:
@@ -410,7 +410,7 @@
   id: ThavenHairBraidtailF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -420,7 +420,7 @@
   id: ThavenHairCountryF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -430,7 +430,7 @@
   id: ThavenHairDoublebunLongF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -440,7 +440,7 @@
   id: ThavenHairFloorlengthBedheadF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -450,7 +450,7 @@
   id: ThavenHairHalfshavedF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -460,7 +460,7 @@
   id: ThavenHairLongBedheadF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -470,7 +470,7 @@
   id: ThavenHairOneshoulderF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -480,7 +480,7 @@
   id: ThavenHairSidetail4F
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -490,7 +490,7 @@
   id: ThavenHairStailF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -500,7 +500,7 @@
   id: ThavenHairTressshoulderF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -510,7 +510,7 @@
   id: ThavenHairTwoStrandsF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -520,7 +520,7 @@
   id: ThavenHairUnkeptF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -530,7 +530,7 @@
   id: ThavenHairVlongF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -540,7 +540,7 @@
   id: ThavenHairVlongfringeF
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
@@ -550,7 +550,7 @@
   id: ThavenHairOxtonFlipped
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/hair.rsi
     state: oxton_flipped
@@ -561,7 +561,7 @@
   id: ThavenEarsWideEars
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   followSkinColor: true
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/headside.rsi
@@ -571,7 +571,7 @@
   id: ThavenEarsTallEars
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   followSkinColor: true
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/headside.rsi
@@ -585,7 +585,7 @@
   id: ThavenTailEelF
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   sexRestriction: [ Female ]
   followSkinColor: true
   sprites:
@@ -598,7 +598,7 @@
   id: ThavenTailAngler
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   followSkinColor: true
   sprites:
   - sprite: _DEN/Mobs/Customization/Thaven/tail.rsi
@@ -610,7 +610,7 @@
   id: ThavenTailAnglerOverlay
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [ Thaven ]
+  speciesRestriction: [Chimerafolk,  Thaven ]
   coloring:
     default:
       type:

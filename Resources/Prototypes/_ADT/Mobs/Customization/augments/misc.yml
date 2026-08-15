@@ -2,7 +2,7 @@
   id: Malstrem
   bodyPart: Eyes
   markingCategory: Head
-  speciesRestriction: [Human, Dwarf, Oni, SlimePerson, Arachnid, Tajaran, Rodentia]
+  speciesRestriction: [Chimerafolk, Human, Dwarf, Oni, SlimePerson, Arachnid, Tajaran, Rodentia]
   forcedColoring: false
   followSkinColor: false
   sprites:
@@ -15,7 +15,7 @@
   id: Beholder
   bodyPart: Eyes
   markingCategory: Head
-  speciesRestriction: [Human, Dwarf, Oni, SlimePerson, Arachnid, Tajaran, Rodentia]
+  speciesRestriction: [Chimerafolk, Human, Dwarf, Oni, SlimePerson, Arachnid, Tajaran, Rodentia]
   forcedColoring: false
   followSkinColor: false
   sprites:

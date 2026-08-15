@@ -9,7 +9,7 @@
   id: BadMoltChest
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/chest.rsi
     state: badmolt
@@ -20,7 +20,7 @@
   id: BadMoltHead
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/head.rsi
     state: badmolt
@@ -29,7 +29,7 @@
   id: ScarSlash
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/head.rsi
     state: snoutscar
@@ -38,7 +38,7 @@
   id: ScarTalons
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/head.rsi
     state: talonscar
@@ -49,7 +49,7 @@
   id: Fangs
   bodyPart: Snout
   markingCategory: Overlay
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   coloring:
     default:
       type:
@@ -63,7 +63,7 @@
   id: LizardBeard
   bodyPart: Snout
   markingCategory: Overlay
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/snout.rsi
     state: beard
@@ -72,7 +72,7 @@
   id: LizardDroopySnout
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/snout.rsi
     state: droopy
@@ -82,7 +82,7 @@
   bodyPart: Snout
   markingCategory: Overlay
   forcedColoring: true
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   coloring:
     default:
       type:
@@ -97,7 +97,7 @@
   bodyPart: Snout
   forcedColoring: true
   markingCategory: Snout
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/snout.rsi
     state: tall
@@ -106,7 +106,7 @@
   id: LizardUpperSnout
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/snout.rsi
     state: upper
@@ -119,7 +119,7 @@
   id: BadMoltRArm
   bodyPart: RArm
   markingCategory: RightArm
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/rarm.rsi
     state: badmolt
@@ -130,7 +130,7 @@
   id: BadMoltLArm
   bodyPart: LArm
   markingCategory: LeftArm
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/larm.rsi
     state: badmolt
@@ -159,7 +159,7 @@
   id: BurqaSolidLizard
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headside.rsi
     state: burqa
@@ -168,7 +168,7 @@
   id: HijabFashionableLizard
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headside.rsi
     state: hijabchic
@@ -177,7 +177,7 @@
   id: HijabSimpleLizard
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headside.rsi
     state: hijabsimple
@@ -186,7 +186,7 @@
   id: LizardKoboldEarsMid
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headside.rsi
     state: koboldearsmid
@@ -195,7 +195,7 @@
   id: LizardKoboldEarsTall
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headside.rsi
     state: koboldearstall
@@ -204,7 +204,7 @@
   id: NiqabLizard
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headside.rsi
     state: niqab
@@ -213,7 +213,7 @@
   id: TichelSimpleLizard
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headside.rsi
     state: tichelsimple
@@ -222,7 +222,7 @@
   id: TichelFashionableLizard
   bodyPart: HeadSide
   markingCategory: HeadSide
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headside.rsi
     state: tichelfashionable
@@ -233,7 +233,7 @@
   id: LizardHeadFlat
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headtop.rsi
     state: flat
@@ -242,7 +242,7 @@
   id: LizardHornsKoboldEarspiercings
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headtop.rsi
     state: koboldears
@@ -253,7 +253,7 @@
   id: LizardHornsNubby
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headtop.rsi
     state: nubby
@@ -262,7 +262,7 @@
   id: LizardLittleHorns
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headtop.rsi
     state: little
@@ -271,7 +271,7 @@
   id: LizardFrill
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/headtop.rsi
     state: frill
@@ -282,7 +282,7 @@
   id: TailDropped
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/tail.rsi
     state: dropped
@@ -291,7 +291,7 @@
   id: TailDroppedAnimated
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [ ]
+  speciesRestriction: [Chimerafolk,  ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/tail.rsi
     state: droppedwagging
@@ -300,7 +300,7 @@
   id: TailGecko
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/tail.rsi
     state: gecko1
@@ -311,7 +311,7 @@
   id: TailSnailLizard
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [ Reptilian ]
+  speciesRestriction: [Chimerafolk,  Reptilian ]
   sprites:
   - sprite: _Impstation/Mobs/Customization/Reptilian/tail.rsi
     state: snizard1

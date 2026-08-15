@@ -11,7 +11,7 @@
 #   id: YowieFur
 #   bodyPart: [ Chest, LArm, RArm, LHand, RHand ]
 #   markingCategory: Overlay
-#   speciesRestriction: [Yowie]
+#   speciesRestriction: [Chimerafolk, Yowie]
 #   coloring:
 #     default:
 #       type:
@@ -25,7 +25,7 @@
   id: YowieFurHead
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [Yowie]
+  speciesRestriction: [Chimerafolk, Yowie]
   coloring:
     default:
       type:
@@ -39,7 +39,7 @@
   id: YowieFurChest
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [Yowie]
+  speciesRestriction: [Chimerafolk, Yowie]
   coloring:
     default:
       type:
@@ -53,7 +53,7 @@
   id: YowieFurGroin
   bodyPart: Groin
   markingCategory: Groin
-  speciesRestriction: [Yowie]
+  speciesRestriction: [Chimerafolk, Yowie]
   coloring:
     default:
       type:
@@ -67,7 +67,7 @@
   id: YowieFurArmRight
   bodyPart: RArm
   markingCategory: RightArm
-  speciesRestriction: [Yowie]
+  speciesRestriction: [Chimerafolk, Yowie]
   coloring:
     default:
       type:
@@ -81,7 +81,7 @@
   id: YowieFurArmLeft
   bodyPart: LArm
   markingCategory: LeftArm
-  speciesRestriction: [Yowie]
+  speciesRestriction: [Chimerafolk, Yowie]
   coloring:
     default:
       type:
@@ -95,7 +95,7 @@
   id: YowieFurLegRight
   bodyPart: RLeg
   markingCategory: RightLeg
-  speciesRestriction: [Yowie]
+  speciesRestriction: [Chimerafolk, Yowie]
   coloring:
     default:
       type:
@@ -109,7 +109,7 @@
   id: YowieFurLegLeft
   bodyPart: LLeg
   markingCategory: LeftLeg
-  speciesRestriction: [Yowie]
+  speciesRestriction: [Chimerafolk, Yowie]
   coloring:
     default:
       type:
@@ -123,7 +123,7 @@
   id: YowieFurFeetRight
   bodyPart: RFoot
   markingCategory: RightFoot
-  speciesRestriction: [Yowie]
+  speciesRestriction: [Chimerafolk, Yowie]
   coloring:
     default:
       type:
@@ -137,7 +137,7 @@
   id: YowieFurFeetLeft
   bodyPart: LFoot
   markingCategory: LeftFoot
-  speciesRestriction: [Yowie]
+  speciesRestriction: [Chimerafolk, Yowie]
   coloring:
     default:
       type:

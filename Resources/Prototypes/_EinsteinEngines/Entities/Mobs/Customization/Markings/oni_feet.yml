@@ -7,7 +7,7 @@
   id: OniTwoToedFeet
   bodyPart: RFoot # Can't be LFoot to avoid visual glitches
   markingCategory: Overlay # Goob - Moved to 'Overlay'
-  speciesRestriction: [Oni]
+  speciesRestriction: [Chimerafolk, Oni]
   coloring:
     default:
       type:

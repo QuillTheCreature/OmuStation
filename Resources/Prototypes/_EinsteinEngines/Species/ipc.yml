@@ -142,7 +142,7 @@
   id: MobIPCHeadDefault
   bodyPart: Head
   markingCategory: Head
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: head_m
@@ -162,7 +162,7 @@
   id: MobIPCChestDefault
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: chest_m
@@ -171,7 +171,7 @@
   id: MobIPCChestFemaleDefault
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: chest_f
@@ -191,7 +191,7 @@
   id: MobIPCGroinDefault
   bodyPart: Groin
   markingCategory: Groin
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: groin_m
@@ -200,7 +200,7 @@
   id: MobIPCGroinFemaleDefault
   bodyPart: Groin
   markingCategory: Groin
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: groin_f
@@ -214,7 +214,7 @@
   id: MobIPCLLegDefault
   bodyPart: LLeg
   markingCategory: LeftLeg
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: l_leg
@@ -228,7 +228,7 @@
   id: MobIPCLArmDefault
   bodyPart: LArm
   markingCategory: LeftArm
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: l_arm
@@ -242,7 +242,7 @@
   id: MobIPCLHandDefault
   bodyPart: LHand
   markingCategory: LeftHand
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: l_hand
@@ -256,7 +256,7 @@
   id: MobIPCLFootDefault
   bodyPart: LFoot
   markingCategory: LeftFoot
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: l_foot
@@ -270,7 +270,7 @@
   id: MobIPCRLegDefault
   bodyPart: RLeg
   markingCategory: RightLeg
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: r_leg
@@ -284,7 +284,7 @@
   id: MobIPCRArmDefault
   bodyPart: RArm
   markingCategory: RightArm
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: r_arm
@@ -298,7 +298,7 @@
   id: MobIPCRHandDefault
   bodyPart: RHand
   markingCategory: RightHand
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: r_hand
@@ -312,7 +312,7 @@
   id: MobIPCRFootDefault
   bodyPart: RFoot
   markingCategory: RightFoot
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Species/IPC/parts.rsi
     state: r_foot

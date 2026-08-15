@@ -3,7 +3,7 @@
   id: XelthiaTailLongSplit
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _Omu/Mobs/Customization/Xelthia/xelthia_parts.rsi
     state: tail_longsplit
@@ -12,7 +12,7 @@
   id: XelthiaTailLongStandard
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _Omu/Mobs/Customization/Xelthia/xelthia_parts.rsi
     state: tail_longstandard
@@ -22,17 +22,17 @@
   id: XelthiaEarsBigFloppy
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _Omu/Mobs/Customization/Xelthia/xelthia_parts.rsi
     state: ears_bigfloppy
 
-# Face    
+# Face
 - type: marking
   id: XelthiaFangs
   bodyPart: Face
   markingCategory: Face
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   coloring:
     default:
       type:
@@ -46,7 +46,7 @@
   id: XelthiaFreckles
   bodyPart: Face
   markingCategory: Face
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _Omu/Mobs/Customization/Xelthia/xelthia_parts.rsi
     state: face_freckles
@@ -58,35 +58,35 @@
   id: XelthiaHairOminous
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _Omu/Mobs/Customization/Xelthia/xelthia_parts.rsi
-    state: hair_ominous    
+    state: hair_ominous
 
 - type: marking
   id: XelthiaHairPonytailSide
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _Omu/Mobs/Customization/Xelthia/xelthia_parts.rsi
-    state: hair_sidepony    
+    state: hair_sidepony
 
 - type: marking
   id: XelthiaHairPonytailAsym
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _Omu/Mobs/Customization/Xelthia/xelthia_parts.rsi
     state: hair_asympony
 
-# Hands - Right hand       
+# Hands - Right hand
 - type: marking
   id: XelthiaRHandPalm
   bodyPart: RHand
   markingCategory: RightHand
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _Omu/Mobs/Customization/Xelthia/xelthia_parts.rsi
     state: hand_right_palm
@@ -96,8 +96,7 @@
   id: XelthiaLHandPalm
   bodyPart: LHand
   markingCategory: LeftHand
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _Omu/Mobs/Customization/Xelthia/xelthia_parts.rsi
     state: hand_left_palm
-    

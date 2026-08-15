@@ -3,7 +3,7 @@
   id: XelthiaTailNormal
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: tail_normal
@@ -13,7 +13,7 @@
   id: XelthiaEarsNormal
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: ears_normal
@@ -22,7 +22,7 @@
   id: XelthiaEarsSmall
   bodyPart: Snout
   markingCategory: Snout
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: ears_small
@@ -33,7 +33,7 @@
   id: XelthiaHairStandard
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: hair_standard
@@ -42,7 +42,7 @@
   id: XelthiaHairShort
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: hair_short
@@ -51,7 +51,7 @@
   id: XelthiaHairLongish
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: hair_longish
@@ -60,7 +60,7 @@
   id: XelthiaHairOvereye
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: hair_overeye
@@ -69,7 +69,7 @@
   id: XelthiaHairFancy
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: hair_fancy
@@ -78,7 +78,7 @@
   id: XelthiaHairTripoint
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: hair_tripoint
@@ -87,7 +87,7 @@
   id: XelthiaHairDownNBack
   bodyPart: Hair
   markingCategory: Hair
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: hair_downandback
@@ -98,7 +98,7 @@
   id: XelthiaStripeyChest
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: stripey
@@ -107,7 +107,7 @@
   id: XelthiaUnderbelly
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   sprites:
   - sprite: _EinsteinEngines/Mobs/Customization/xelthia_parts.rsi
     state: underbelly
@@ -118,7 +118,7 @@
   id: XelthiaBackspikes
   bodyPart: Chest, RArm, LArm, Head
   markingCategory: Overlay
-  speciesRestriction: [Xelthia]
+  speciesRestriction: [Chimerafolk, Xelthia]
   coloring:
     default:
       type:

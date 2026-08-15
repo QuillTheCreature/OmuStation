@@ -7,7 +7,7 @@
 # Modified from EinsteinEngines
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenStatic
   bodyPart: Face
   markingCategory: Face
@@ -19,7 +19,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenBlue
   bodyPart: Face
   markingCategory: Face
@@ -29,7 +29,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenBreakout
   bodyPart: Face
   markingCategory: Face
@@ -41,7 +41,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenEight
   bodyPart: Face
   markingCategory: Face
@@ -53,7 +53,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenGoggles
   bodyPart: Face
   markingCategory: Face
@@ -65,7 +65,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenExclaim
   bodyPart: Face
   markingCategory: Face
@@ -77,7 +77,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenHeart
   bodyPart: Face
   markingCategory: Face
@@ -89,7 +89,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenMonoeye
   bodyPart: Face
   markingCategory: Face
@@ -101,7 +101,7 @@
 
 
 - type: marking # Omu Edit
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenDot
   bodyPart: Face
   markingCategory: Face
@@ -112,7 +112,7 @@
       state: ipc_screen_dot_moving
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenNature
   bodyPart: Face
   markingCategory: Face
@@ -126,7 +126,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenOrange
   bodyPart: Face
   markingCategory: Face
@@ -138,7 +138,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenPink
   bodyPart: Face
   markingCategory: Face
@@ -148,7 +148,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenQuestion
   bodyPart: Face
   markingCategory: Face
@@ -160,7 +160,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenShower
   bodyPart: Face
   markingCategory: Face
@@ -174,7 +174,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenYellow
   bodyPart: Face
   markingCategory: Face
@@ -184,7 +184,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenScroll
   bodyPart: Face
   markingCategory: Face
@@ -194,7 +194,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenConsole
   bodyPart: Face
   markingCategory: Face
@@ -206,7 +206,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenRgb
   bodyPart: Face
   markingCategory: Face
@@ -216,7 +216,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenGlider
   bodyPart: Face
   markingCategory: Face
@@ -228,7 +228,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenRainbowhoriz
   bodyPart: Face
   markingCategory: Face
@@ -238,7 +238,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenBsod
   bodyPart: Face
   markingCategory: Face
@@ -248,7 +248,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenRedtext
   bodyPart: Face
   markingCategory: Face
@@ -258,7 +258,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenSinewave
   bodyPart: Face
   markingCategory: Face
@@ -270,7 +270,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenSquarewave
   bodyPart: Face
   markingCategory: Face
@@ -282,7 +282,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenEcgwave
   bodyPart: Face
   markingCategory: Face
@@ -294,7 +294,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenEyes
   bodyPart: Face
   markingCategory: Face
@@ -306,7 +306,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenEyestall
   bodyPart: Face
   markingCategory: Face
@@ -318,7 +318,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenEyesangry
   bodyPart: Face
   markingCategory: Face
@@ -330,7 +330,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenLoading
   bodyPart: Face
   markingCategory: Face
@@ -342,7 +342,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenWindowsxp
   bodyPart: Face
   markingCategory: Face
@@ -352,7 +352,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenTetris
   bodyPart: Face
   markingCategory: Face
@@ -364,7 +364,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenTv
   bodyPart: Face
   markingCategory: Face
@@ -374,7 +374,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenTextdrop
   bodyPart: Face
   markingCategory: Face
@@ -386,7 +386,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenStars
   bodyPart: Face
   markingCategory: Face
@@ -398,7 +398,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenRainbowdiag
   bodyPart: Face
   markingCategory: Face
@@ -408,7 +408,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenBlank
   bodyPart: Face
   markingCategory: Face
@@ -418,7 +418,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenSmile
   bodyPart: Face
   markingCategory: Face
@@ -427,7 +427,7 @@
       state: ipc_screen_smile
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenFrown
   bodyPart: Face
   markingCategory: Face
@@ -437,7 +437,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenRing
   bodyPart: Face
   markingCategory: Face
@@ -447,7 +447,7 @@
 
 
 - type: marking
-  speciesRestriction: [ IPC ]
+  speciesRestriction: [Chimerafolk,  IPC ]
   id: ScreenL
   bodyPart: Face
   markingCategory: Face

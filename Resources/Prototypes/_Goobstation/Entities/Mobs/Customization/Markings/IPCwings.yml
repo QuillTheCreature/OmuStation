@@ -7,7 +7,7 @@
   id: WingsRoboticMerciful
   bodyPart: Wings
   markingCategory: Wings
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   sprites:
     - sprite: _Goobstation/Mobs/Customization/IPCwings.rsi
       state: merciful_base

@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - type: marking
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   id: RobotAntennaTv
   bodyPart: HeadTop
   markingCategory: HeadTop
@@ -13,7 +13,7 @@
       state: ipc_antenna_tv
 
 - type: marking
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   id: RobotAntennaTesla
   bodyPart: HeadTop
   markingCategory: HeadTop
@@ -22,7 +22,7 @@
       state: ipc_antenna_tesla
 
 # - type: marking
-#   speciesRestriction: [IPC]
+#   speciesRestriction: [Chimerafolk, IPC]
 #   id: RobotAntennaLightb
 #   bodyPart: HeadTop
 #   markingCategory: HeadTop
@@ -31,7 +31,7 @@
 #       state: ipc_antenna_lightb
 
 # - type: marking
-#   speciesRestriction: [IPC]
+#   speciesRestriction: [Chimerafolk, IPC]
 #   id: RobotAntennaLight
 #   bodyPart: HeadTop
 #   markingCategory: HeadTop
@@ -40,7 +40,7 @@
 #       state: ipc_antenna_light
 
 - type: marking
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   id: RobotAntennaCyberhead
   bodyPart: HeadTop
   markingCategory: HeadTop
@@ -49,7 +49,7 @@
       state: ipc_antenna_cyberhead
 
 # - type: marking
-#   speciesRestriction: [IPC]
+#   speciesRestriction: [Chimerafolk, IPC]
 #   id: RobotAntennaSidelights
 #   bodyPart: HeadTop
 #   markingCategory: HeadTop
@@ -58,7 +58,7 @@
 #       state: ipc_antenna_sidelights
 
 - type: marking
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   id: RobotAntennaAntlers
   bodyPart: HeadTop
   markingCategory: HeadTop
@@ -67,7 +67,7 @@
       state: ipc_antenna_antlers
 
 - type: marking
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   id: RobotAntennaDroneeyes
   bodyPart: HeadTop
   markingCategory: HeadTop
@@ -76,7 +76,7 @@
       state: ipc_antenna_droneeyes
 
 - type: marking
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   id: RobotAntennaCrowned
   bodyPart: HeadTop
   markingCategory: HeadTop
@@ -85,7 +85,7 @@
       state: ipc_antenna_crowned
 
 - type: marking
-  speciesRestriction: [IPC]
+  speciesRestriction: [Chimerafolk, IPC]
   id: RobotAntennaTowers
   bodyPart: HeadTop
   markingCategory: HeadTop

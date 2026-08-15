@@ -2,7 +2,7 @@
   id: ReptilianSharpCobraHood
   bodyPart: HeadTop
   markingCategory: HeadTop
-  speciesRestriction: [Reptilian]
+  speciesRestriction: [Chimerafolk, Reptilian]
   sprites:
   - sprite: _DEN/Mobs/Customization/Reptilian/sharpcobrahood.rsi
     state: sharp_cobra_hood_overlay
