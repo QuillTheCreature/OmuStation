@@ -1,0 +1,63 @@
+- type: entity
+  parent: [ PartVulpkaninBase, BaseGroin ]
+  id: GroinVulpkaninDigi
+  name: "vulpkanin digi groin"
+  components:
+  - type: Sprite
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi # Omu - vulp furrification
+    state: "groin"
+  - type: Icon
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi # Omu - vulp furrification
+    state: "groin"
+
+- type: entity
+  parent: [ PartVulpkaninBase, BaseLeftLeg ]
+  id: LeftLegVulpkaninDigi
+  name: "left vulpkanin leg"
+  #Omu Start
+  components:
+  - type: Sprite
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
+    state: "l_leg"
+  - type: Icon
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
+    state: "l_leg"
+
+- type: entity
+  parent: [ PartVulpkaninBase, BaseRightLeg ]
+  id: RightLegVulpkaninDigi
+  name: "right vulpkanin digi leg"
+  #Omu Start
+  components:
+  - type: Sprite
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
+    state: "r_leg"
+  - type: Icon
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
+    state: "r_leg"
+
+- type: entity
+  parent: [ PartVulpkaninBase, BaseLeftFoot ]
+  id: LeftFootVulpkaninDigi
+  name: "left vulpkanin digi foot"
+  #Omu Start
+  components:
+  - type: Sprite
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
+    state: "l_foot"
+  - type: Icon
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
+    state: "l_foot"
+
+- type: entity
+  parent: [ PartVulpkaninBase, BaseRightFoot ]
+  id: RightFootVulpkaninDigi
+  name: "right vulpkanin digi foot"
+  #Omu Start
+  components:
+  - type: Sprite
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
+    state: "r_foot"
+  - type: Icon
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
+    state: "r_foot"

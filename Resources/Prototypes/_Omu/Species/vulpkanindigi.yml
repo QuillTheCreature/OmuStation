@@ -1,0 +1,37 @@
+
+- type: species
+  id: VulpkaninDigi
+  name: species-name-vulpkanin
+  roundStart: true
+  prototype: MobVulpkaninDigi
+  sprites: MobVulpkaninDigiSprites
+  defaultSkinTone: "#985629"
+  markingLimits: MobVulpkaninMarkingLimits
+  dollPrototype: MobVulpkaninDigiDummy
+  skinColoration: Hues
+  maleFirstNames: NamesVulpakinMale
+  femaleFirstNames: NamesVulpakinFemale
+  lastNames: NamesVulpakinLast
+
+- type: speciesBaseSprites
+  id: MobVulpkaninDigiSprites
+  sprites:
+    Head: MobVulpkaninHead
+    Face: MobHumanoidAnyMarking
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    Snout: MobHumanoidAnyMarking
+    Chest: MobVulpkaninChest
+    Groin: MobVulpkaninGroinDigi # Omu
+    HeadTop: MobHumanoidAnyMarking
+    HeadSide: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidEyes
+    LArm: MobVulpkaninLArm
+    RArm: MobVulpkaninRArm
+    LHand: MobVulpkaninLHand
+    RHand: MobVulpkaninRHand
+    LLeg: MobVulpkaninLLegDigi #Omu - Vulp furrification
+    RLeg: MobVulpkaninRLegDigi #Omu - Vulp furrification
+    LFoot: MobVulpkaninLFootDigi #Omu - Vulp furrification
+    RFoot: MobVulpkaninRFootDigi #Omu - Vulp furrification

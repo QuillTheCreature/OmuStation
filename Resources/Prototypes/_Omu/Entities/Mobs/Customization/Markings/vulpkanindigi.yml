@@ -1,0 +1,175 @@
+
+# Tail Markings
+- type: marking
+  id: VulpTailDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: vulp
+  - sprite: _DV/Mobs/Customization/Vulpkanin/tail_markings.rsi
+    state: vulp-fade
+
+- type: marking
+  id: VulpTailTipDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: vulp
+  - sprite: _DV/Mobs/Customization/Vulpkanin/tail_markings.rsi
+    state: vulp-tip
+
+- type: marking
+  id: VulpTailWagDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: vulp_wag
+  - sprite: _DV/Mobs/Customization/Vulpkanin/tail_markings.rsi
+    state: vulp_wag-tip #fade
+
+- type: marking
+  id: VulpTailWagTipDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: vulp_wag
+  - sprite: _DV/Mobs/Customization/Vulpkanin/tail_markings.rsi
+    state: vulp_wag-tip
+
+- type: marking
+  id: VulpTailAltDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: vulp_alt
+  - sprite: _DV/Mobs/Customization/Vulpkanin/tail_markings.rsi
+    state: vulp_alt-fade
+
+- type: marking
+  id: VulpTailAltTipDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: vulp_alt
+  - sprite: _DV/Mobs/Customization/Vulpkanin/tail_markings.rsi
+    state: vulp_alt-tip
+
+- type: marking
+  id: VulpTailLongDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: long
+  - sprite: _DV/Mobs/Customization/Vulpkanin/tail_markings.rsi
+    state: long-tip
+
+- type: marking
+  id: VulpTailFoxDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fox
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fox-fade
+
+- type: marking
+  id: VulpTailFoxTipDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fox
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fox-tip
+
+- type: marking
+  id: VulpTailFoxWagDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fox_wag
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fox_wag-fade
+
+- type: marking
+  id: VulpTailFoxWagTipDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fox_wag
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fox_wag-tip
+
+
+- type: marking
+  id: VulpTailFox2Digi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fox2
+
+- type: marking
+  id: VulpTailFox3Digi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fox3
+  - sprite: _DV/Mobs/Customization/Vulpkanin/tail_markings.rsi
+    state: fox3-tip
+
+
+
+
+- type: marking
+  id: VulpTailOtieDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: otie
+
+- type: marking
+  id: VulpTailFluffyDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fluffy
+
+- type: marking #omu
+  id: VulpTailFluffyTipDigi
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninDigi]
+  sprites:
+  - sprite: _Omu/Mobs/Customization/Vulpkanin/tails-digi.rsi # Omu, vulp furrification
+    state: fluffy
+  - sprite: _DV/Mobs/Customization/Vulpkanin/tail_markings.rsi
+    state: fluffy-tip
